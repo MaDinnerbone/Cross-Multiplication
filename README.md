@@ -1,0 +1,2 @@
+# Cross-Multiplication
+cross multiplication 
